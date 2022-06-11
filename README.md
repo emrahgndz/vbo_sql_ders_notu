@@ -1,0 +1,1 @@
+# vbo_sql_ders_notu
